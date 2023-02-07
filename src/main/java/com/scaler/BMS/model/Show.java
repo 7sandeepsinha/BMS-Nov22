@@ -1,6 +1,5 @@
 package com.scaler.BMS.model;
 
-import com.scaler.BMS.model.enums.Feature;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;

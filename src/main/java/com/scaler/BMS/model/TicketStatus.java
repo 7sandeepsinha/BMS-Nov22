@@ -1,4 +1,4 @@
-package com.scaler.BMS.model.enums;
+package com.scaler.BMS.model;
 
 public enum TicketStatus {
     PENDING,

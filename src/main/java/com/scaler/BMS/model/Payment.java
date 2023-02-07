@@ -1,6 +1,5 @@
 package com.scaler.BMS.model;
 
-import com.scaler.BMS.model.enums.PaymentMethod;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;
 import jakarta.persistence.Enumerated;
@@ -27,3 +26,4 @@ public class Payment extends BaseModel{
     @ManyToOne
     private Ticket ticket;
 }
+

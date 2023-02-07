@@ -1,9 +1,5 @@
-package com.scaler.BMS;
+package com.scaler.BMS.model;
 
-import com.scaler.BMS.model.BaseModel;
-import com.scaler.BMS.model.Seat;
-import com.scaler.BMS.model.Show;
-import com.scaler.BMS.model.enums.ShowSeatState;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;
 import jakarta.persistence.Enumerated;

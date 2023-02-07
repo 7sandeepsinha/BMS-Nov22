@@ -15,4 +15,8 @@ public class BaseModel {
     @GeneratedValue(strategy =  GenerationType.IDENTITY)
     //@Column(name = "identity_column")
     private Long id;
+
+    //add timeStamps -> automated
+    //CREATED_AT
+    //UPDATED_AT
 }
